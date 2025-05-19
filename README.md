@@ -1,7 +1,8 @@
 # Ticket-Collector
 
 This Project was Created with Visual Studio.  
-You can use the .sln file to open the whole project, where you can build and run the app automatically.  
+To try it out you can use the .sln file to open the whole project, where you can build and run the app automatically.  
+
 Make sure to Update-Database, you can do it inside the package manager console, otherwise the program won't work. The Migration's are located in Problems.Data, make sure to select it inside the console as Default project.  
 ![MigrationHelp](./GitShowcase/MigrationHelp.png)  
 
