@@ -24,4 +24,7 @@ Than paste the token inside
 ![AuthorizeScreenPic](./GitShowcase/AuthorizeScreen.png)  
 
 After this feel free to post problems and read with GET. Only the Admin can Read/GET, everyone else can only post problems.  
-![PostPutButtonPic](./GitShowcase/PostPutButton.png)
+![PostPutButtonPic](./GitShowcase/PostPutButton.png)  
+
+Output:
+![TestPic](./GitShowcase/Test.png)  
